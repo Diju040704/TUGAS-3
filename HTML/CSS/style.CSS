@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.text1 {
+  background-color: gold;
+  font-family: cursive;
+}
+.text2 {
+  color: aqua;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text3 {
+  margin: 5px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.text4 {
+  font-size: 40px;
+  width: 200px;
+}
+.gambar {
+  width: 30px;
+}
+.footer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: end;
+  gap: 15px;
+}
+button:hover{
+  background-color: brown;
+}
